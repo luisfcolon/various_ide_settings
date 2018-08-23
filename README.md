@@ -1,2 +1,3 @@
-# vs_code_settings
-Visual Studio Code Personal Settings
+# Visual Studio Code Personal Settings
+
+\m/
