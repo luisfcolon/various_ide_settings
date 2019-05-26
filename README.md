@@ -1,3 +1,4 @@
-# Visual Studio Code Personal Settings
+# Personal IDE settings for development
 
-\m/
+- Sublime
+- Visual Studio Code
